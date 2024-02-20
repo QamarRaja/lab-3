@@ -12,6 +12,5 @@ module src2(
     xor t5(h,f,g);
     xor t6(x,d,e);
     and t7(y,e,h);
-
     
 endmodule
